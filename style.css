@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    margin: 0;
+}
+.background button {
+    width:80px;
+    height: 80px;
+    border-radius:50%;
+    border: 2px solid black;
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    width: 90px;
+  height: 90px;
+  padding: 15px;
+
+  box-shadow: 5px 5px;
+}
+.form button {
+    width: 100px;
+    height: 30px;
+    border-radius: 10%;
+    border: 2px solid black;
+}
+#red{
+    background:red;
+}
+#orange {
+    background:orange;
+}
+#green {
+    background: green;
+}
+#blue {
+    background:blue;
+}
+#indigo{
+    background: indigo;
+}
+#gray{
+    background: gray;
+}
+#gold{
+    background: gold;
+}
+#brown{
+    background: brown;
+}
+#purple{
+    background: purple;
+}
+#aqua{
+    background: aqua;
+}
+#yellow{
+    background: yellow;
+}
